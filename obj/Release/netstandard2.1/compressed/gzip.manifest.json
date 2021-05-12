@@ -1,0 +1,159 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\h157ZwKqjqhIX9amnwOOxpjW6lraVFBGe9wOq4RFqAU=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\HelloWeather.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/HelloWeather.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\v3yEf5lHV4jDK6ee2jckai8WJ4jneRF8MaUudamnb1o=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bDVaAt5R1CWtvSCzs7Vmc1D6jeU01KDNuthiNv2vjp4=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\wGhgDpxjf7dauCPdUmPoH3WWkDEeverqfMPzCDGu_JM=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\EDgeE0PRcj6DX9ubcxjsWx7DSaxiEKVCF4gXl9RWN0U=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\dTo9MzlYHifzRosP4KBWRmYS5khdzjlIp0oo_Bcgreg=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\0CgMzuq7EEPwfpN0UV1sKn_SFG1JDzkDVsOmqVo7xYE=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zoENR938ehADiIbAjbmzGQwxqG5uyJI7tQzQmCCgCUc=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CRXYuBEZLf6S0zpDrvuVmvLGhG90kuaMFOISHpbuWMA=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\6gNexwzwgDUaJUmx4g4-pw8Ttn9X4uXMyl8aOp7h-O0=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mIKR-yxnHwwdxCwceJP2Qv-YB9wqdPDcDJcpj9hG_1s=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\K-yeptwQFYkBggSCXvRFWmW6-eGdFYPTmzU2KlJ_3L0=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\NhCGqnmmbX43vgjyU082cG2I2gNT_J69MIYP7_rJMeE=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\GoPmd_vF6o8szWH9X8B4Jesata2I_BB8Z7IziaqgadI=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HCPtcefG092tGFvtmc0fNmiRkucXh89WShhKYFtqy5c=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\X-jwuB1okE0cNOmRZI5A00qJWfF9Mkenm0fl9UWtxto=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\K0697lFvH-CsjSmc7LDffsQiwD8EDzsEXhKwdvl1M4c=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\hJS7L0L_JmYN-xsRgB3RWMjbifI_G4gTKHUwVtd-2rg=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-Z7z90mkw7LhpxdCr3iMzXIk8AzV0XWy7nv8IG9rM30=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\lxC2SFgaBfd2Jp_3JQiAmBEDeZ8UVisbaSMWpvZ3ox0=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SVzCWRO5vSgckwNdrTi_upgZQPbKDy8Puvx5AldZEoI=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\VJ6MuNNAlT8pWQ_eNvHI_vEqVfJWwuLvIX1Z15I155Y=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5gynLnTu1SENI_nb6mH6vAvgMKulqmLqSjbgMVgMkGg=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\omerw\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\omerw\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\omerw\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\omerw\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\KKQLDCwq387g7GYQUDRqUVYW2I_c77Uag_kbknhxqU0=.hash",
+      "Source": "C:\\Users\\omerw\\Documents\\GitHub\\HelloWeather\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
+    }
+  ]
+}
