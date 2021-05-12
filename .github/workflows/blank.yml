@@ -17,7 +17,7 @@ jobs:
       run: dotnet publish -c Release
 
     - name: Rewrite base href
-      uses: omarwasfi/HelloWeather
+      uses: omarwasfi/ghaction-rewrite-base-href@v1
       with:
         html_path: ${{ env.PUBLISH_DIR }}/index.html
         base_href: /HelloWeather/
@@ -26,7 +26,7 @@ jobs:
       if: success()
       uses: crazy-max/ghaction-github-pages@v1.5.1
       with:
-        target_branch: gh-pages
+        target_branch: gh-pagess
         build_dir: ${{ env.PUBLISH_DIR }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
